@@ -1,0 +1,14 @@
+{
+  "appname": "InnovateshealthBuyerApp",
+  "scope": "DevCenterImpersonate ProductReader BuyerAdmin BuyerReader CategoryReader AddressReader EmailTemplateReader MeAddressAdmin MeCreditCardAdmin",
+  "clientid": "06814EA2-2994-4936-817D-DF39140FE375",
+  "buyerid": "BuyerID1",
+  "environment": "prod",
+  "anonymous": true,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
